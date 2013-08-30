@@ -3,7 +3,7 @@ described in book [Artificial Intelligence: A Modern Approach](http://aima.cs.be
 a C# adaptation of [this C++ project](http://web.ntnu.edu.tw/~tcchiang/ai/Vacuum%20Cleaner%20World.htm) with
 more user friendly interface.
 
-[Video of environment usage]()
+[Video of environment usage](http://www.youtube.com/watch?v=xZDnrxhIxrM)
 
 Problem description
 ======
@@ -13,6 +13,7 @@ A performance measure is to maximize the number of clean rooms over a certain pe
 consumption. The geography of the environment is unknown. At each time step, each room has a certain chance of increasing 1 unit of dirt.  
 
 * Prior knowledge
+
 ------
 1. The environment is a square, surrounded with walls.
 2. Each cell is either a wall or a room.
@@ -20,9 +21,10 @@ consumption. The geography of the environment is unknown. At each time step, eac
 4. The agent cannot pass through the wall.
 5. The agent can go north, south, east, and west. Each move costs 1 point of energy.
 6. The agent can clear dirt, each time decreasing 1 unit of dirt. Each cleaning costs 2 point of energy.
-7. The agent can stay idle, costing no energy.
+7. The agent can stay idle, costing no energy.  
 
 * Performance measure
+
 ------
 Given a period T, the goal is 
 
