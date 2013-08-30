@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VacuumCleaner", "VacuumCleaner\VacuumCleaner\VacuumCleaner.csproj", "{0196E2A5-932B-4709-AD79-68E2FC7AD1E1}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "VacuumCleanerContent", "VacuumCleaner\VacuumCleanerContent\VacuumCleanerContent.contentproj", "{327B6EA6-E1D0-4672-9512-2C381286B55F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0196E2A5-932B-4709-AD79-68E2FC7AD1E1}.Debug|x86.ActiveCfg = Debug|x86
+		{0196E2A5-932B-4709-AD79-68E2FC7AD1E1}.Debug|x86.Build.0 = Debug|x86
+		{0196E2A5-932B-4709-AD79-68E2FC7AD1E1}.Release|x86.ActiveCfg = Release|x86
+		{0196E2A5-932B-4709-AD79-68E2FC7AD1E1}.Release|x86.Build.0 = Release|x86
+		{327B6EA6-E1D0-4672-9512-2C381286B55F}.Debug|x86.ActiveCfg = Debug|x86
+		{327B6EA6-E1D0-4672-9512-2C381286B55F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
