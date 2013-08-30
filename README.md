@@ -53,17 +53,17 @@ of dirt collections.
 
 Default agents work plots
 ------
-<img src="/Plots/energy_1.png" width="400" alt="Energy map_1">
-<img src="/Plots/dirt_1.png" width="400" alt="Dirt map_1">  
+<img src="/Plots/energy_1.png" width="300" alt="Energy map_1">
+<img src="/Plots/dirt_1.png" width="300" alt="Dirt map_1">  
 
-<img src="/Plots/energy_2.png" width="400" alt="Energy map_2">
-<img src="/Plots/dirt_2.png" width="400" alt="Dirt map_2">  
+<img src="/Plots/energy_2.png" width="300" alt="Energy map_2">
+<img src="/Plots/dirt_2.png" width="300" alt="Dirt map_2">  
 
-<img src="/Plots/energy_3.png" width="400" alt="Energy map_3">
-<img src="/Plots/dirt_3.png" width="400" alt="Dirt map_3">  
+<img src="/Plots/energy_3.png" width="300" alt="Energy map_3">
+<img src="/Plots/dirt_3.png" width="300" alt="Dirt map_3">  
 
-<img src="/Plots/energy_4.png" width="400" alt="Energy map_4">
-<img src="/Plots/dirt_4.png" width="400" alt="Dirt map_4">  
+<img src="/Plots/energy_4.png" width="300" alt="Energy map_4">
+<img src="/Plots/dirt_4.png" width="300" alt="Dirt map_4">  
 
 Renderers
 ======
