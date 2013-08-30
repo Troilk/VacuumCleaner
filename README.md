@@ -51,20 +51,6 @@ of dirt collections.
 
 * ModelAgentNoIdle - behaves as the previous one but is not trying to predict when to idle.
 
-Default agents work plots
-------
-<img src="/Plots/energy_1.png" width="300" alt="Energy map_1">
-<img src="/Plots/dirt_1.png" width="300" alt="Dirt map_1">  
-
-<img src="/Plots/energy_2.png" width="300" alt="Energy map_2">
-<img src="/Plots/dirt_2.png" width="300" alt="Dirt map_2">  
-
-<img src="/Plots/energy_3.png" width="300" alt="Energy map_3">
-<img src="/Plots/dirt_3.png" width="300" alt="Dirt map_3">  
-
-<img src="/Plots/energy_4.png" width="300" alt="Energy map_4">
-<img src="/Plots/dirt_4.png" width="300" alt="Dirt map_4">  
-
 Renderers
 ======
 For displaying map and agent 2 default renderers are available:  
@@ -87,3 +73,17 @@ Used libraries/assets
 [Neoforce Controls](http://neoforce.codeplex.com/) ([License](http://neoforce.codeplex.com/license))  
 
 Some textures from [CG Textures](http://www.cgtextures.com/)
+
+Default agents work plots
+======
+<img src="/Plots/energy_1.png" width="300" height="180" alt="Energy map_1">
+<img src="/Plots/dirt_1.png" width="300" height="180" alt="Dirt map_1">  
+
+<img src="/Plots/energy_2.png" width="300" height="180" alt="Energy map_2">
+<img src="/Plots/dirt_2.png" width="300" height="180" alt="Dirt map_2">  
+
+<img src="/Plots/energy_3.png" width="300" height="180" alt="Energy map_3">
+<img src="/Plots/dirt_3.png" width="300" height="180" alt="Dirt map_3">  
+
+<img src="/Plots/energy_4.png" width="300" height="180" alt="Energy map_4">
+<img src="/Plots/dirt_4.png" width="300" height="180" alt="Dirt map_4">  
