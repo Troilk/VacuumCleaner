@@ -76,6 +76,6 @@ to install XNA on VS 2012 but you will need 2010 version anyway.
 Used libraries/assets
 ======
 [XNA 4.0 Refresh](http://en.wikipedia.org/wiki/Microsoft_XNA)  
-[Neoforce Controls](http://neoforce.codeplex.com/) (for GUI)  
+[Neoforce Controls](http://neoforce.codeplex.com/) ([License](http://neoforce.codeplex.com/license))  
 
 Some textures from [CG Textures](http://www.cgtextures.com/)
