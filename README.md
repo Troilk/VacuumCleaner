@@ -4,7 +4,6 @@ a C# adaptation of [this C++ project](http://web.ntnu.edu.tw/~tcchiang/ai/Vacuum
 more user friendly interface.
 
 [Video of environment usage](http://www.youtube.com/watch?v=xZDnrxhIxrM)
-
 Problem description
 ======
 In the simple world, the vacuum cleaner agent has a bump sensor and a dirt sensor so that it knows if it
@@ -54,6 +53,7 @@ of dirt collections.
 
 Default agents work plots
 ------
+<img src="/Plots/energy_1.png" width = "200">
 ![Energy map_1](/Plots/energy_1.png) ![Dirt map_1](/Plots/dirt_1.png)  
 ![Energy map_2](/Plots/energy_2.png) ![Dirt map_2](/Plots/dirt_2.png)  
 ![Energy map_3](/Plots/energy_3.png) ![Dirt map_3](/Plots/dirt_3.png)  
