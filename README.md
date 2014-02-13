@@ -61,11 +61,8 @@ For displaying map and agent 2 default renderers are available:
 System requirements
 ======
 Windows  
-[XNA 4.0 Refresh](http://msxna.codeplex.com/releases)
+[XNA 4.0 Refresh](http://msxna.codeplex.com/releases) 
 Microsoft Visual Studio 2010, 2012, 2013
-
-XNA does not officially support Visual Studio 2012. You can try out [this tutorial](http://ryan-lange.com/xna-game-studio-4-0-visual-studio-2012/)
-to install XNA on VS 2012 but you will need 2010 version anyway.
 
 Used libraries/assets
 ======
