@@ -61,7 +61,7 @@ For displaying map and agent 2 default renderers are available:
 System requirements
 ======
 Windows  
-[XNA 4.0 Refresh](http://msxna.codeplex.com/releases) 
+[XNA 4.0 Refresh](http://msxna.codeplex.com/releases)  
 Microsoft Visual Studio 2010, 2012, 2013
 
 Used libraries/assets
